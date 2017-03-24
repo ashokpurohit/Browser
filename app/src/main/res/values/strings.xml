@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="url">Enter URL</string>
+    <string name="submit">GO</string>
+</resources>
